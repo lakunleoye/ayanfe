@@ -1,0 +1,29 @@
+body {
+    background-color: magenta;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+img {
+    width: 120px;
+}
+
+.circle {
+    border-radius: 50%;
+
+    border: 1px solid purple;
+    padding: 2px;
+    background-color: green;
+    border: 5px dotted rgb(21, 21, 240);
+}
+
+
+.quote {
+    font-size: 12px;
+    color: rgb(76, 68, 68);
+    /*Top Right Bottom Left*/
+    /*Top Bottom Right Left*/
+    border: 5px dotted black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
